@@ -1,0 +1,1 @@
+SELECT * FROM testing_system_1.type_question;
